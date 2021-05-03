@@ -1,9 +1,9 @@
 # IPL_Score_Predictor
 
 
-##Problem
+#Problem
 Calculating the score of a team after 6 overs in each match in IPL
-##Dataset Used
+#Dataset Used
 
 
-##Tools used
+#Tools used
